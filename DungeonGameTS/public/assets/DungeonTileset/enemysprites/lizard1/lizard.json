@@ -1,0 +1,209 @@
+{
+	"textures": [
+		{
+			"image": "lizard.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 16,
+				"h": 252
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lizard_m_hit_anim_f0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 28
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 28
+					}
+				},
+				{
+					"filename": "lizard_m_idle_anim_0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 28
+					},
+					"frame": {
+						"x": 0,
+						"y": 28,
+						"w": 16,
+						"h": 28
+					}
+				},
+				{
+					"filename": "lizard_m_idle_anim_f1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 28
+					},
+					"frame": {
+						"x": 0,
+						"y": 56,
+						"w": 16,
+						"h": 28
+					}
+				},
+				{
+					"filename": "lizard_m_idle_anim_f2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 28
+					},
+					"frame": {
+						"x": 0,
+						"y": 84,
+						"w": 16,
+						"h": 28
+					}
+				},
+				{
+					"filename": "lizard_m_idle_anim_f3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 28
+					},
+					"frame": {
+						"x": 0,
+						"y": 112,
+						"w": 16,
+						"h": 28
+					}
+				},
+				{
+					"filename": "lizard_m_run_anim_f0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 28
+					},
+					"frame": {
+						"x": 0,
+						"y": 140,
+						"w": 16,
+						"h": 28
+					}
+				},
+				{
+					"filename": "lizard_m_run_anim_f1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 28
+					},
+					"frame": {
+						"x": 0,
+						"y": 168,
+						"w": 16,
+						"h": 28
+					}
+				},
+				{
+					"filename": "lizard_m_run_anim_f2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 28
+					},
+					"frame": {
+						"x": 0,
+						"y": 196,
+						"w": 16,
+						"h": 28
+					}
+				},
+				{
+					"filename": "lizard_m_run_anim_f3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 28
+					},
+					"frame": {
+						"x": 0,
+						"y": 224,
+						"w": 16,
+						"h": 28
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:ddabdbf7b611a96a80f80d3e6da07141:bf58466ac046f284be31b108785d75d5:3d60b3d24c8a6c98f2f50be7cc542ed6$"
+	}
+}
