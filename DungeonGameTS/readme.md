@@ -37,6 +37,10 @@ npm install -g parcel-bundler
 
 Clone this repository to your local machine:
 
+```
+gh repo clone gospel-gamers/DungeonGame
+```
+
 Start development server:
 
 ```
