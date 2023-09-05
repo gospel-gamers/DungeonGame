@@ -37,23 +37,6 @@ npm install -g parcel-bundler
 
 Clone this repository to your local machine:
 
-```bash
-git clone https://github.com/ourcade/phaser3-typescript-parcel-template.git
-```
-
-This will create a folder named `phaser3-typescript-parcel-template`. You can specify a different folder name like this:
-
-```bash
-git clone https://github.com/ourcade/phaser3-typescript-parcel-template.git my-folder-name
-```
-
-Go into your new project folder and install dependencies:
-
-```bash
-cd phaser3-typescript-parcel-template # or 'my-folder-name'
-npm install
-```
-
 Start development server:
 
 ```
@@ -82,8 +65,6 @@ Production files will be placed in the `dist` folder. Then upload those files to
     │   ├── main.ts
     ├── package.json
 ```
-
-The contents of this template is the basic [Phaser 3 getting started example](http://phaser.io/tutorials/getting-started-phaser3/part5).
 
 This template assumes you will want to organize your code into multiple files and use TypeScript.
 
